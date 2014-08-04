@@ -19,6 +19,8 @@ gem 'will_paginate', '~> 3.0.5'
 gem 'will_paginate-bootstrap'
 
 
+#modify
+
 group :development, :test do 
 	gem 'sqlite3'
 end
