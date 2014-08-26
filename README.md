@@ -4,4 +4,5 @@ This is the pinteresting application for
 
 The address is http://brian-pinterest.herokuapp.com
 
-by Brian Z
+
+Brian Z
