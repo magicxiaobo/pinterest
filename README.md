@@ -20,8 +20,11 @@ Brian Z
    $ls: stands for the list
    $cd + “folder”: open the folder
 
-3. Debugging: 75% of coding is Googling.
-   Stackflow
+3. Debugging: Googling.
+   You usually can get answer from Stackflow
 
-4.
+4. Git with github
+   Config a Git on a new computer
+   $git config –-global user.name “Mattan Griffel” 
+   $git config 
 
