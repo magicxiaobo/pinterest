@@ -37,4 +37,9 @@ Brian Z
 	$git add .
 	$git commit -am “init commit”
 
+   Edit your .gitignore file
+	Add .DS_Store to your /.gitignore file so that git doesn't keep track of this random file.(only)
+
+   
+
 
