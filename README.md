@@ -10,13 +10,18 @@ Brian Z
 
 
 1. Configuration of developing environment
-My ruby version: ruby 1.9.3p547	
-My rails version: rails 4.1.1
-In terminal, using “$ruby -v”  and “$rails -v” to check the version of ruby and rails installed.
+   My ruby version: ruby 1.9.3p547	
+   My rails version: rails 4.1.1
+   In terminal, using “$ruby -v”  and “$rails -v” to check the version of ruby and      rails installed.
 
-Editor, I recommend “sublime”.
+   Editor, I recommend “sublime”.
 
-2. 	$pwd: to check the directory you are in
-	$ls: stands for the list
-	$cd + “folder”: open the folder
+2. $pwd: to check the directory you are in
+   $ls: stands for the list
+   $cd + “folder”: open the folder
+
+3. Debugging: 75% of coding is Googling.
+   Stackflow
+
+4.
 
