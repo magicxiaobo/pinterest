@@ -25,6 +25,10 @@ Brian Z
 
 4. Git with github
    Config a Git on a new computer
-   $git config –-global user.name “Mattan Griffel” 
-   $git config 
+   $git config –-global user.name “Brian Z” 
+   $git config –-global user.name
+   $git config --global user.email "yuxiaobohit@gmail.com"
+   $git config --global user.email
+
+5.
 
