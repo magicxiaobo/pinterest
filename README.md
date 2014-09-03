@@ -40,6 +40,8 @@ Brian Z
    Edit your .gitignore file
 	Add .DS_Store to your /.gitignore file so that git doesn't keep track of this random file.(only)
 
-   
+   Git it back if you deleted something in your code you shouldn't have
+	$git add .
+	$git checkout -f
 
 
