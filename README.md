@@ -23,12 +23,18 @@ Brian Z
 3. Debugging: Googling.
    You usually can get answer from Stackflow
 
-4. Git with github
+4. Commit with github
+   
    Config a Git on a new computer
-   $git config –-global user.name “Brian Z” 
-   $git config –-global user.name
-   $git config --global user.email "yuxiaobohit@gmail.com"
-   $git config --global user.email
+	$git config –-global user.name “Brian Z” 
+   	$git config –-global user.name
+   	$git config --global user.email "yuxiaobohit@gmail.com"
+   	$git config --global user.email
 
-5.
+   Setting up Git in a new project
+	$git init
+	$git status
+	$git add .
+	$git commit -am “init commit”
+
 
