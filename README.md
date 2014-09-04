@@ -49,6 +49,7 @@ Brian Z
 	$git commit -am “	Message”
 	$git push
 
-6. 
+6. Creating Your Homepage
+	(1).Are you in 
 
 
