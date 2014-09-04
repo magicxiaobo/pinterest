@@ -50,6 +50,9 @@ Brian Z
 	$git push
 
 6. Creating Your Homepage
-	(1).Are you in 
+	(1).Are you in the Pinteresting directory? (where to store your web app directory)
+	$cd ~/Desktop
+	$cd pinteresting
+	$rails server
 
 
