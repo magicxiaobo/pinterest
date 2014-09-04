@@ -56,6 +56,7 @@ Brian Z
 	$rails server
 	(2).Create a new page
 	$rails generate controller pages home
+	In your browser, go to the URL: localhost:3000/pages/home and see the new blank homepage you just created
 	
 
 
