@@ -44,4 +44,11 @@ Brian Z
 	$git add .
 	$git checkout -f
 
+5. Push changes from your computer to GitHub
+	$git add .
+	$git commit -am “	Message”
+	$git push
+
+6. 
+
 
