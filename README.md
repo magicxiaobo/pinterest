@@ -54,5 +54,8 @@ Brian Z
 	$cd ~/Desktop
 	$cd pinteresting
 	$rails server
+	(2).Create a new page
+	$rails generate controller pages home
+	
 
 
