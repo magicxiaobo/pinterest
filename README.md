@@ -58,5 +58,11 @@ Brian Z
 	$rails generate controller pages home
 	In your browser, go to the URL: localhost:3000/pages/home and see the new blank homepage you just created
 	
-
+7. Creating more pages
+	Most likely, you're going to need more pages.You'll have to add a new view and set a route for it.
+	(1). Add a new action in your controller
+		def about
+		end
+	
+		
 
