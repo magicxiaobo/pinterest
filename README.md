@@ -63,6 +63,6 @@ Brian Z
 	(1). Add a new action in your controller
 		def about
 		end
-	
+	(2). Update the HTML in your view
 		
 
