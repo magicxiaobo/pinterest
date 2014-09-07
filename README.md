@@ -68,5 +68,9 @@ Brian Z
 8. Embedded Ruby
 	(1).Change your HTML link to an embedded ruby link
 	<%= link_to “here”, “#”>
+	(2).Review of the lesson
+	In html, a link looks like this
+		<a href=”#”>here</a>
+	
 		
 
