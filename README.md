@@ -67,14 +67,14 @@ Brian Z
 
 8. Embedded Ruby
 	(1).Change your HTML link to an embedded ruby link
-	<%= link_to “here”, “#”>
+	<%= link_to “here”, “#” %>
 	(2).Review of the lesson
 	In html, a link looks like this
 		<a href=”#”>here</a>
 	In Ruby on Rails a link will look like this
-		<%= link_to “here”, “#”>
+		<%= link_to “here”, “#” %>
 
 9. Create Navigation links
-
-		
+	<%= link_to “Home”, root_path %>
+	<%= link_to “About”, about_path %>	
 
