@@ -71,6 +71,7 @@ Brian Z
 	(2).Review of the lesson
 	In html, a link looks like this
 		<a href=”#”>here</a>
-	
+	In Ruby on Rails a link will look like this
+		<%= link_to “here”, “#”>
 		
 
