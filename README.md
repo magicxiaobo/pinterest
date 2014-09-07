@@ -64,5 +64,8 @@ Brian Z
 		def about
 		end
 	(2). Update the HTML in your view
+
+8. Embedded Ruby
+	(1).
 		
 
