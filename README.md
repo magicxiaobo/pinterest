@@ -73,5 +73,8 @@ Brian Z
 		<a href=”#”>here</a>
 	In Ruby on Rails a link will look like this
 		<%= link_to “here”, “#”>
+
+9. Create Navigation links
+
 		
 
