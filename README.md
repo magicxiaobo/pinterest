@@ -66,6 +66,7 @@ Brian Z
 	(2). Update the HTML in your view
 
 8. Embedded Ruby
-	(1).
+	(1).Change your HTML link to an embedded ruby link
+	<%= link_to “here”, “#”>
 		
 
