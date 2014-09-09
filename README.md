@@ -86,4 +86,6 @@ Brian Z
 		..
 	(2). bundle install to install a gem
 		$bundle install
+	(3). Understand the Application.css file
+	Application.css takes all the other files in your /stylesheets directory and combines them for you run your app.
 
