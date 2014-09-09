@@ -78,3 +78,5 @@ Brian Z
 	<%= link_to “Home”, root_path %>
 	<%= link_to “About”, about_path %>	
 
+10. Installing the Bootstrap Gem
+
