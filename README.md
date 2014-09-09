@@ -84,4 +84,6 @@ Brian Z
 		..
 		gem 'bootstrap-sass'
 		..
+	(2). bundle install to install a gem
+		$bundle install
 
