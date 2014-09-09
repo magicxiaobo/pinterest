@@ -90,4 +90,7 @@ Brian Z
 	Application.css takes all the other files in your /stylesheets directory and combines them for you run your app.
 	(4). Create a new scss file
 		@import 'bootstrap';
+	(5). Restart server
+		Ctrl + C
+		$rails server
 
