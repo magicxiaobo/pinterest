@@ -79,4 +79,9 @@ Brian Z
 	<%= link_to “About”, about_path %>	
 
 10. Installing the Bootstrap Gem
+	(1). Add the Bootstrap gem
+	In Gemfile, 
+		..
+		gem 'bootstrap-sass'
+		..
 
